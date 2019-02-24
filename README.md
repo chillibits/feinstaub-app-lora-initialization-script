@@ -4,6 +4,7 @@ Script for testing lora chip with esp8266 and lora module rn2483.
 The following settings are used to run this script on esp8266:
 
 Settings -> Additional board manager urls: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 Tools -> Board -> Board manager: Search for Esp8266 Community and install the latest version (tested with version 2.4.2)
 
 Make following settings in the Tools-menu:
